@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#FAF5FF"/>
+  <rect x="60" y="160" width="360" height="360" rx="180" fill="#E9D5FF" opacity="0.8"/>
+  <rect x="480" y="80" width="660" height="400" rx="28" fill="#D8B4FE" opacity="0.5"/>
+  <rect x="520" y="420" width="400" height="120" rx="16" fill="#4602AA" opacity="0.15"/>
+  <text x="600" y="620" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="600" fill="#475569">HR Leaders</text>
+</svg>
