@@ -176,7 +176,7 @@ function MobileNavEntry({
       >
         <div className="overflow-hidden">
           <div className="space-y-4 px-3 pb-3 pt-1">
-            {item.columns.map((column) => (
+            {item.columns?.map((column) => (
               <div key={column.title}>
                 <p className="mb-1 px-2 text-xs font-semibold uppercase tracking-wider text-slate-400">
                   {column.title}
